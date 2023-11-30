@@ -15,4 +15,4 @@ labelPUno.innerHTML = `Nick J1: ${jugadorUno.nickname}`;
 let jugadorDos = new Jugador("Carlos", 3, 10);
 //interactuar html
 let labelPDos = document.getElementById("nick-playerDos");
-labelPDos.innerHTML = `Nick J1: ${jugadorDos.nickname}`;
+labelPDos.innerHTML = `Nick J2: ${jugadorDos.nickname}`;
